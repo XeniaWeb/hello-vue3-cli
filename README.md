@@ -1,24 +1,21 @@
-# hello-vue3-cli
+### About this project
 
-## Project setup
-```
-yarn install
-```
+## XeniaWeb - hello-vue3-cli
+### Oksana Bürki
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+<https://x-folio.xeniaweb.ch/about/>
 
-### Compiles and minifies for production
-```
-yarn build
-```
+###
+#### Project setup
+```yarn install```
+#### Compiles and hot-reloads for development
+```yarn serve```
 
-### Lints and fixes files
-```
-yarn lint
-```
+#### Compiles and minifies for production
+```yarn build```
 
-### Customize configuration
+#### Lints and fixes files
+```yarn lint```
+
+#### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
